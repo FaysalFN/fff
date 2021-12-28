@@ -1,0 +1,244 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif ;
+}
+#header{
+    width: 100%;
+    float: left;
+    background-color: rgb(74, 82, 90);
+    border: 2px;
+    border-radius: solid ;
+}
+.logo-part{
+    width: 30%;
+    float: left;
+    padding: 10px;
+    margin-left: 10px;
+
+}
+.logo{
+    width: 220px;
+    cursor: pointer;
+}
+.memu-part{
+    width: 50%;
+    float: left;
+
+}
+.menu-part nav ul li{
+    display: inline-block;
+    list-style: none;
+    margin: 05px 20px;
+   
+}
+nav ul li{
+    list-style: none;
+    font-size: 20px;
+    font: bold;
+  
+}
+.menu-part nav ul li a{
+    list-style: none;
+    margin: 20px;
+    flex: 1;
+    text-align: right;
+    
+  }
+  .menu-part nav ul li a:hover{
+    color: rgb(240, 14, 82);
+  }
+.btn-part{
+    width: 30%;
+    float:right;
+    color: #000;
+    padding-left: 10px;
+    
+}
+.bb{
+    width: 20%;
+    float:left;   
+}
+.hero{
+    text-align:left;
+    background: url(img/mask.png);
+    padding: 70px;
+    height: 600px;
+
+}
+h1{
+    color: white;
+    font-size: 50px;
+    
+}
+p{
+   color: white;
+   margin-top: 25px;
+   
+}
+.b1{
+    margin-top: 25px;
+    background: transparent;
+    color: rgb(240, 230, 228);
+    padding: 10px 19px;
+    border: 2px solid tomato;
+    border-radius: 10px;
+
+}
+
+}
+.b2{
+    margin-top: 25px;
+    background: transparent;
+    color: rgb(240, 230, 228);
+    padding: 10px 19px;
+    border: 2px solid tomato;
+    border-radius: 10px;
+}
+.mobile{
+    margin-top: 30px;
+    position: relative;
+    position: top ;
+    float: right;
+    margin-top: -220px;
+}
+section{
+    width: 100%;
+    float: left;
+    margin-top: 50px;
+
+}
+.h2{
+    text-align: center;
+    margin-bottom: 30px;
+  border-bottom: 2px solid tan;
+    padding-bottom: 80px;
+
+
+
+}
+.ff{
+    color: #000;
+}
+.icon{
+    width: 25%;
+    float: left;
+    padding-top: 50px;
+    padding: 30px;
+
+
+}
+h3{
+  text-align: center;
+}
+.icon-4{
+   
+
+}
+.icon-3{
+
+}
+.icon-2{
+
+}
+.icon-1{
+
+}
+img{
+
+}
+.ee{
+    margin-left: 90px;
+    padding: 30px;
+    margin-bottom: 20px;
+}
+.ff{
+   text-align: center;
+}
+section{
+    width: 100%;
+    float: left;
+    margin-bottom: 40px;
+    
+}
+
+}
+.jj{
+    width: 50%;
+    float: left;
+    height: 200px;
+}
+.kk{
+
+}
+.ne{
+    padding-left: 50px;
+}
+.rr{
+    width: 50%;
+    float: left;
+}
+.oo{
+    width: 50%;
+    float: left;
+    color: black;
+    text-align: center;
+    color: cornflowerblue;
+    
+}
+.part3{
+    width: 100%;
+    float: left;
+    margin-top: 10px;
+    padding: 20px;
+}
+.p-3-3{
+    width: 50%;
+    float: left;
+    padding: 20px;
+    margin-top: 50px;
+
+}
+.p-h{
+    text-align: right;
+}
+
+.p-p{
+    text-align: right;
+    color: cornflowerblue;
+}
+.p-btn{
+   float: right;
+   margin-top: 30px;
+
+}
+.p-3-2{
+    width: 50%;
+    float: left;
+    padding: 20px;
+
+
+}
+.p-im{
+
+}
+.part4{
+     width: 100%;
+     float: left;
+     margin-top: 20px;
+}
+.p4{
+   width: 50%;
+   float: left;
+
+}
+
+.p44{
+    width: 50%;
+    float: left;
+
+}
+   
+
+
